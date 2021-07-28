@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "username": "temp",
+      "email": "temp@temp.com",
+      "password": "temppass",
+      "courses": [
+        {
+          "tittle": "Selenium WebDriver with Python Crash Course",
+          "instructor": "Admas Kinfu",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "Master Web Scraping with Python",
+          "instructor": "Sats Sehgal",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "Apache Airflow: The Hands-On Guide",
+          "instructor": "Marc Lamberti",
+          "date": "2021-07-25"
+        }
+      ]
+    },
+    {
+      "username": "temp2",
+      "email": "temp2@temp",
+      "password": "temp2pass",
+      "courses": [
+        {
+          "tittle": "The Complete Hands-On Introduction to Apache Airflow",
+          "instructor": "Marc Lamberti",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "MongoDB Essentials - Understand the Basics of MongoDB",
+          "instructor": "Patrick Schroeder",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+          "instructor": "Colt Steele",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "DOCKER | Step by Step for Beginners | with Sample Project",
+          "instructor": "Raghav Pal",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "Apache Kafka for Beginners - Learn Kafka by Hands-On",
+          "instructor": "Pragmatic Code School",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "Python: Everything you need to know to become a developer",
+          "instructor": "Experts with David Bombal",
+          "date": "2021-07-25"
+        }
+      ]
+    },
+    {
+      "username": "temp3",
+      "email": "temp3@temp",
+      "password": "temp3pass",
+      "courses": [
+        {
+          "tittle": "The Complete Hands-On Introduction to Apache Airflow",
+          "instructor": "Marc Lamberti",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "MongoDB Essentials - Understand the Basics of MongoDB",
+          "instructor": "Patrick Schroeder",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+          "instructor": "Colt Steele",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "DOCKER | Step by Step for Beginners | with Sample Project",
+          "instructor": "Raghav Pal",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "Apache Kafka for Beginners - Learn Kafka by Hands-On",
+          "instructor": "Pragmatic Code School",
+          "date": "2021-07-25"
+        },
+        {
+          "tittle": "Python: Everything you need to know to become a developer",
+          "instructor": "Experts with David Bombal",
+          "date": "2021-07-25"
+        }
+      ]
+    }
+  ]
+}
